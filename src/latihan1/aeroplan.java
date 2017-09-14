@@ -3,6 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package latihan1;
 
 /**
  *
@@ -20,5 +21,4 @@ public class aeroplan extends vehicle{
         garuda.function();
         garuda.fuel();
         garuda.walk();
-    }
-}
+    }}
